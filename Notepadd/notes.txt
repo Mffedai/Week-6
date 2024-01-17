@@ -2,3 +2,4 @@ Java
 101
 Patikası
 Patika+
+patija
